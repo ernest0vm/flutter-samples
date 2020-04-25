@@ -44,7 +44,7 @@ You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegovelope
 | <center> <img src="https://media.giphy.com/media/h4x6fHw65l3KdnDrTi/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/Y07CGmYvcNyl9rkgbY/giphy.gif" width="250">
  </center>
 
- | App Clone / Photo Concept  | Animations / Page View Animated |
+ | App Clone / Photo Concept  | App Clone / Movies Concept |
 |--|--|
 | <center> <img src="https://media.giphy.com/media/XybRawN2vj4YV3fhul/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/UuNiEk20TKjn4F4H7a/giphy.gif" width="250">
  </center>
@@ -53,4 +53,12 @@ You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegovelope
 |--|--|
 | <center> <img src="https://media.giphy.com/media/RJn8BMmOzfaW101iS2/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/MeP49gjvFbUDShkzJM/giphy.gif" width="250">
  </center>
+
+   | App Clone / Album Flow  | App Clone / Credit Cards Concept  |
+|--|--|
+| <center> <img src="https://media.giphy.com/media/emGlZPMbFpkNDrFuO7/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/UrsStRAMXOT93wwyP2/giphy.gif" width="250"/> </center>
+
+   | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-sliverappbar-with-stretchy-header-9ca04f316ff0) | [App Clone / Travel Concept Demo](https://www.youtube.com/watch?v=VXdpxnjmy0M) |
+|--|--|
+| <center> <img src="https://media.giphy.com/media/QuIvsrhjCr4oPS49qa/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/gF30YeWCn0Ncf0qxCS/giphy.gif" width="250"/>
 
